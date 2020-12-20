@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "fibers": "^5.0.0",
+    "gray-matter": "^4.0.2",
     "next": "^10.0.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "sass": "^1.30.0"
   }
 }
